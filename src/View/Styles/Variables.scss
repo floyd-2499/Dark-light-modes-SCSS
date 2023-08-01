@@ -1,0 +1,14 @@
+:root {
+    --primary-color: #fff;
+}
+
+.light {
+    --primary-color: #ffffff;
+}
+
+.dark {
+    --primary-color: #232323;
+}
+
+$primary-color: var(--primary-color);
+
